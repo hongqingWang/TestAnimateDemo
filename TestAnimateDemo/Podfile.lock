@@ -19,12 +19,14 @@ PODS:
   - SDWebImage (5.0.6):
     - SDWebImage/Core (= 5.0.6)
   - SDWebImage/Core (5.0.6)
+  - TABAnimated (2.1.7)
 
 DEPENDENCIES:
   - AFNetworking
   - Masonry
   - MJExtension
   - SDWebImage
+  - TABAnimated
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -32,13 +34,15 @@ SPEC REPOS:
     - Masonry
     - MJExtension
     - SDWebImage
+    - TABAnimated
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
   SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  TABAnimated: a142a3fe07cc8dea41a664be31a74394bd5df418
 
-PODFILE CHECKSUM: 26f5e838f8871d20e4d2f2c389e4cbabdbb5b8c9
+PODFILE CHECKSUM: 7ab7d2ebdc089a7b23752de8734cd54476094d0c
 
 COCOAPODS: 1.5.3

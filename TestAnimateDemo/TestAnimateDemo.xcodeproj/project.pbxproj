@@ -102,8 +102,8 @@
 		9B9832CF22E6F2010040FBFA /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				9B9832D022E6F2010040FBFA /* News */,
 				9B9832E022E6F2010040FBFA /* Main */,
+				9B9832D022E6F2010040FBFA /* News */,
 				9B9832E422E6F2010040FBFA /* Tool */,
 			);
 			path = Classes;
@@ -113,10 +113,10 @@
 			isa = PBXGroup;
 			children = (
 				9B9832D122E6F2010040FBFA /* ViewModel */,
-				9B9832D622E6F2010040FBFA /* QQNews.xcassets */,
 				9B9832D722E6F2010040FBFA /* Controller */,
 				9B9832DA22E6F2010040FBFA /* Model */,
 				9B9832DD22E6F2010040FBFA /* View */,
+				9B9832D622E6F2010040FBFA /* QQNews.xcassets */,
 			);
 			path = News;
 			sourceTree = "<group>";
@@ -124,10 +124,10 @@
 		9B9832D122E6F2010040FBFA /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				9B9832D222E6F2010040FBFA /* QQNewsViewModel.h */,
-				9B9832D322E6F2010040FBFA /* QQNewsListViewModel.m */,
-				9B9832D422E6F2010040FBFA /* QQNewsViewModel.m */,
 				9B9832D522E6F2010040FBFA /* QQNewsListViewModel.h */,
+				9B9832D322E6F2010040FBFA /* QQNewsListViewModel.m */,
+				9B9832D222E6F2010040FBFA /* QQNewsViewModel.h */,
+				9B9832D422E6F2010040FBFA /* QQNewsViewModel.m */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -163,8 +163,8 @@
 			isa = PBXGroup;
 			children = (
 				9B9832E122E6F2010040FBFA /* AppDelegate.h */,
-				9B9832E222E6F2010040FBFA /* main.m */,
 				9B9832E322E6F2010040FBFA /* AppDelegate.m */,
+				9B9832E222E6F2010040FBFA /* main.m */,
 			);
 			path = Main;
 			sourceTree = "<group>";

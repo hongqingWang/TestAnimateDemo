@@ -8,5 +8,6 @@ pod 'AFNetworking'
 pod 'MJExtension'
 pod 'SDWebImage'
 pod 'Masonry'
+pod 'TABAnimated'
 
 end

@@ -19,7 +19,7 @@
     // 调用`QQNetworkManager+QQNews`中的获取新闻数据的方法
     [[QQNetworkManager sharedManager] loadNewsDataCompletion:^(NSArray *dataArray) {
         
-        NSLog(@"%s %@", __FUNCTION__, dataArray);
+//        NSLog(@"%s %@", __FUNCTION__, dataArray);
         
         NSMutableArray *arrayM = [NSMutableArray arrayWithCapacity:dataArray.count];
         

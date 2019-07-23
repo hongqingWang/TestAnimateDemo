@@ -18,7 +18,7 @@ static NSString *const newsURLString = @"http://c.m.163.com/nc/article/headline/
         if (error) {
             NSLog(@"%s %@", __FUNCTION__, error);
         }
-        NSLog(@"%s %@", __FUNCTION__, result);
+//        NSLog(@"%s %@", __FUNCTION__, result);
         
         /**
          * 简单处理数据,只把需要的回调到`QQNewsListViewModel`中
